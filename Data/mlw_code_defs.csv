@@ -1,0 +1,214 @@
+code,material,description,source
+G1,Plastic,Six pack rings,Food
+G2,None,None,None
+G3,Plastic,Shopping bags,Household
+G4,Plastic,Freezer bags,Household
+G5,Plastic,Generic plastic bags,Household
+G6,None,None,None
+G7,Plastic,Drink bottles < 0.5l,Food
+G8,Plastic,Drink bottles  > 0.5l,Food
+G9,Plastic,Cleaner bottles,Household
+G10,Plastic,Food containers,Food
+G11,Plastic,Cosmetics for the beach,Medical
+G12,Plastic,Other cosmetics,Medical
+G13,Plastic,Other bottles,Household
+G14,Plastic,Engine oil bottles,Industry
+G15,Plastic,Engine oil bottles > 50cm,Industry
+G16,Plastic,Jerry cans,Industry
+G17,Plastic,Injection gun cartridge,Industry
+G18,Plastic,Crates/baskets,Industry
+G19,Plastic,Car parts,Industry
+G20,None,None,None
+G21,Plastic,Drink lids,Food
+G22,Plastic,Lids for chemicals,Household
+G23,Plastic,Lids unidentified,Household
+G24,Plastic,Plastic rings from lids,Food
+G25,Plastic,Tobacco wrappers,Tobaco
+G26,Plastic,Cigarette lighters,Tobaco
+G27,Plastic,Cigarette butts,Tobaco
+G28,Plastic,Pens and lids,Household
+G29,Plastic,Combs and brushes,Personal effects
+G30,Plastic,Candy and snack wrappers,Food
+G31,Plastic,Lollypop sticks,Food
+G32,Plastic,Toys and fireworks,Recreation
+G33,Plastic,Cups and cup lids,Food
+G34,Plastic,Cutlery and trays,Food
+G35,Plastic,Straws and stirrers,Food
+G36,Plastic,Feed bags,Industry
+G37,Plastic,Mesh bags,Household
+G38,None,None,None
+G39,None,None,None
+G40,Plastic,Gloves household,Household
+G41,Plastic,Glove industrial,Industry
+G42,Plastic,Crab lobster pots,Fishing
+G43,Plastic,Tags fishing or industry,Fishing
+G44,Plastic,Octopus pots,Fishing
+G45,Plastic,Mussel nets,Fishing
+G46,Plastic,Oyster trays,Fishing
+G47,Plastic,Sheeting from mussel culture,Fishing
+G48,None,None,None
+G49,Plastic,Rope > 1cm,Industry
+G50,Plastic,String < 1cm,Household
+G51,None,None,None
+G52,Plastic,Nets and pieces,Fishing
+G53,Plastic,Nets and pieces < 50cm,Fishing
+G54,Plastic,Nets and pieces > 50cm,Fishing
+G55,None,None,None
+G56,Plastic,Tangled nets,Fishing
+G57,Plastic,Fish boxes,Fishing
+G58,Plastic,Foam fish box,Fishing
+G59,Plastic,Fishing line,Recreation
+G60,Plastic,Light sticks,Recreation
+G61,None,None,None
+G62,Plastic,Floats for nets,Fishing
+G63,Plastic,Buoys,Fishing
+G64,Plastic,Fenders,Industry
+G65,Plastic,Buckets,Industry
+G66,Plastic,Strapping bands,Industry
+G67,Plastic,Industrial sheeting,Industry
+G68,Plastic,Fiberglass fragments,Fishing
+G69,Plastic,Helmets or hardhats,Construction
+G70,Plastic,Shotgun cartridges,Recreation
+G71,Plastic,Shoes sandals,Personal effects
+G72,Plastic,Traffic cones,Other
+G73,Plastic,Foam sponge,Household
+G74,None,None,None
+G75,None,None,None
+G76,Plastic,Plastic or polystyrene 2.5 > < 50cm,Fragmented
+G77,Plastic,Plastic or polystyrene  > 50cm,Fragmented
+G78,None,None,None
+G79,Plastic,Plastic pieces 2.5 > < 50cm,Fragmented
+G80,Plastic,Plastic pieces > 50cm,Fragmented
+G81,None,None,None
+G82,Plastic,Polystyrene pieces 2.5 > < 50cm,Fragmented
+G83,Plastic,Polystyrene pieces > 50cm,Fragmented
+G84,Plastic,CD or CD box,Recreation
+G85,Plastic,Salt packaging,Industry
+G86,Plastic,Fin trees,Recreation
+G87,Plastic,Masking tape,Construction
+G88,Plastic,Telephone or pieces of,Personal effects
+G89,Plastic,Plastic construction waste,Construction
+G90,Plastic,Plastic flower pots,Household
+G91,Plastic,Biomass holder,Water Treament
+G92,Plastic,Bait containers,Recreation
+G93,Plastic,Cable ties ,Construction
+G94,None,None,None
+G95,Plastic,Cotton swabs,Medical
+G96,Plastic,"Sanitary napkins, tampon applicators",Medical
+G97,Plastic,Toilet fresheners,Water Treament
+G98,Plastic,Diapers - wipes,Medical
+G99,Plastic,Syringes - needles,Medical
+G100,Plastic,Medical containers,Medical
+G101,Plastic,Dog feces bag,Household
+G102,Plastic,Flip-flops,Personal effects
+G103,None,None,None
+G104,None,None,None
+G105,None,None,None
+G106,None,None,None
+G107,None,None,None
+G108,None,None,None
+G109,None,None,None
+G110,None,None,None
+G111,None,None,None
+G112,None,None,None
+G113,None,None,None
+G114,None,None,None
+G115,None,None,None
+G116,None,None,None
+G117,None,None,None
+G118,None,None,None
+G119,None,None,None
+G120,None,None,None
+G121,None,None,None
+G122,None,None,None
+G123,None,None,None
+G124,Plastic,Other plastic or foam products,Fragmented
+G125,Rubber,Balloons and balloon sticks,Recreation
+G126,Rubber,Balls,Recreation
+G127,Rubber,Rubber boots,Industry
+G128,Rubber,Tires and belts,Industry
+G129,Rubber,Inner tubes and rubber sheets,Industry
+G130,Rubber,Wheels,Household
+G131,Rubber,Rubber bands,Household
+G132,Rubber,Bobbers (fishing),Recreation
+G133,Rubber,Condoms,Medical
+G134,Rubber,Other rubber,Other
+G135,None,None,None
+G136,None,None,None
+G137,Cloth,"Clothing, rags, hats etc.,,",Personal effects
+G138,Cloth,Shoes and sandals,Personal effects
+G139,Cloth,Backpacks,Personal effects
+G140,Cloth,Bags (hessian or jute),Personal effects
+G141,Cloth,Carpet ,Household
+G142,Cloth,Rope or string,Household
+G143,Cloth,"Sails, canvas",Fishing
+G144,Cloth,Tampons,Medical
+G145,Cloth,Other textiles,Other
+G146,None,None,None
+G147,Paper,Paper bags,Other
+G148,Paper,Cardboard ,Other
+G149,None,None,None
+G150,Paper,Milk cartons,Food
+G151,Paper,Drink cartons other,Food
+G152,Paper,Cigarette boxes,Tobaco
+G153,Paper,"Cups, food trays, wrappers",Food
+G154,Paper,"Newspapers, magazines",Other
+G155,Paper,Tubes for fireworks,Recreation
+G156,Paper,Paper fragments,Other
+G157,Paper,None,None
+G158,Paper,Other paper items,Other
+G159,Wood,Corks,Food
+G160,Wood,Pallets,Industry
+G161,Wood,Processed wood,Industry
+G162,Wood,Crates,Industry
+G163,Wood,Crab lobster pots,Fishing
+G164,Wood,Fish boxes,Fishing
+G165,Wood,"Ice cream sticks, chopsticks",Food
+G166,Wood,Paint brushes,Construction
+G167,Wood,Matches or fireworks,Recreation
+G168,None,None,None
+G169,None,None,None
+G170,None,None,None
+G171,Wood,Other wood < 50cm,Other
+G172,Wood,Other wood > 50cm,Other
+G173,None,None,None
+G174,Metal,Aerosol spray cans,Industry
+G175,Metal,Beverage cans,Food
+G176,Metal,Food cans,Food
+G177,Metal,Foil wrappers,Food
+G178,Metal,"Bottle caps, lids",Food
+G179,Metal,Disposable BBQs,Recreation
+G180,Metal,Appliances,Household
+G181,Metal,Tableware,Household
+G182,Metal,Fishing related,Fishing
+G183,None,None,None
+G184,Metal,Lobster pots,Fishing
+G185,None,None,None
+G186,Metal,Industrial scrap,Industry
+G187,Metal,Drums,Industry
+G188,Metal,Other cans,Other
+G189,Metal,Gas bottles,Other
+G190,Metal,Paint cans,Household
+G191,Metal,"Wire, wire mesh",Construction
+G192,None,None,None
+G193,Metal,"car parts, batteries",Industry
+G194,Metal,Cables,Construction
+G195,Metal,Batteries - household,Household
+G196,None,None,None
+G197,None,None,None
+G198,Metal,Other metal pieces < 50cm,Other
+G199,Metal,Other metal pieces > 50cm,Other
+G200,Glass,Bottles,Food
+G201,Glass,Jars,Food
+G202,Glass,Light bulbs,Household
+G203,Glass,Tableware,Household
+G204,Glass,Construction material,Construction
+G205,Glass,Fluorescent light tubes,Household
+G206,Glass,Glass buoys,Fishing
+G207,Glass,Octopus pots,Fishing
+G208,Glass,Glass fragments,Other
+G209,None,None,None
+G210,Glass,Other glass items,Other
+G211,Unidentified,Other medical items,Medical
+G212,None,None,None
+G213,Chemicals,Paraffin wax,Recreation
