@@ -33,3 +33,19 @@ __Automate:__ Automation of some of the processes in Note book one
 __Compare medians:__ Compare the median values of object categories
 
 __Compare medians over time:__ Visualize the survey results grouped by seasons of the year
+
+### Contributing
+
+The purpose of contributing is to present the data according to your understanding of the problem with the following reminders:
+
+1. Be objecitve
+2. Know your target group
+3. Show value or how to get to value
+
+For students participating in the study you may submit a pull request.  If you are not part of the EPFL group and you would like to contribute contact hammerdirt and lets talk.
+
+__Requirements:__ Analysis must include data from Switzerland and the beach-litter database. Mathematical or statistical processes need to be explained, both in the context of this application and the "general context".
+
+__Packages:__ Please indicate if you are adding packages to the requirements.txt file. That way we can adjust things on our end.
+
+__References:__ Don't forget links to references 
