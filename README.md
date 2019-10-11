@@ -26,7 +26,7 @@ __Plot the data:__ Use matplotlib to plot the data in a time series
 
 ### Note book two:
 
-__Status:__ Started => No commits
+__Status:__ Started => Initial commit
 
 __Automate:__ Automation of some of the processes in Note book one
 
