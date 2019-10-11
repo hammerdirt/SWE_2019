@@ -12,7 +12,7 @@
 
 If you are new to this start with notebook one. The code used here is simple but effective. Therefore you will need a working knowledge of Python and/or JavaScript to really grasp what is going on.
 
-#### Note book one:
+### Note book one:
 
 __Status:__ Complete => contribute as you like, see guidelines below.
 
@@ -24,7 +24,7 @@ __Descriptive statistics:__ Use numpy and python dicitionaries to get some basic
 
 __Plot the data:__ Use matplotlib to plot the data in a time series
 
-#### Note book two:
+### Note book two:
 
 __Status:__ Started => No commits
 
