@@ -26,13 +26,17 @@ __Plot the data:__ Use matplotlib to plot the data in a time series
 
 ### Note book two:
 
-__Status:__ Started => Initial commit
+__Status:__ Started => completed
 
 __Automate:__ Automation of some of the processes in Note book one
 
 __Compare medians:__ Compare the median values of object categories
 
 __Compare medians over time:__ Visualize the survey results grouped by seasons of the year
+
+Sample output, check charts folder for others:
+
+ ![image of output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/G67bySeaonBoxPlot.svg)
 
 ### Contributing
 
