@@ -24,6 +24,12 @@ __Descriptive statistics:__ Use numpy and python dicitionaries to get some basic
 
 __Plot the data:__ Use matplotlib to plot the data in a time series
 
+__Initial output of time series:__
+
+![image of output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/initialScatter.svg)
+
+
+
 ### Note book two:
 
 __Status:__ Started => completed
@@ -37,6 +43,10 @@ __Compare medians over time:__ Visualize the survey results grouped by seasons o
 Sample output, check charts folder for others:
 
  ![image of output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/G67bySeaonBoxPlot.svg)
+ 
+### Note book three:
+
+__Status:__ Started => consolidating methods and pushing to modules
 
 ### Contributing
 
