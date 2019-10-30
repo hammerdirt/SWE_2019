@@ -35,7 +35,7 @@ def get_pieces_per_meter(aDict):
         new_list = aDict[this_key]
         for the_object in new_list:
             new_object = the_object
-            new_object["pcs_m"] = np.round(new_object["quantity"]/new_object["length"], 3)
+            new_object["pcs_m"] = np.round(new_object["quantity"]/new_object["length"], 4)
             new_list_of_objects.append(new_object)
     return new_list_of_objects
 # make a summary of the data
