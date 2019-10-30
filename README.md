@@ -2,6 +2,8 @@
 
 ### Semester project
 
+
+
 #### Comparing the distribution of object categories identified on Lake Geneva.
 
 1. Sorting by season
@@ -11,6 +13,8 @@
 #### Start in chronological order
 
 If you are new to this start with notebook one. The code used here is simple but effective. Therefore you will need a working knowledge of Python and/or JavaScript to really grasp what is going on.
+
+![output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/Parc-des-PierrettesSummary.svg)
 
 ### Note book one:
 
@@ -23,11 +27,6 @@ __Getting data:__ Connect the notebook to the API using _requests_ and convertin
 __Descriptive statistics:__ Use numpy and python dicitionaries to get some basic statistics from the data.
 
 __Plot the data:__ Use matplotlib to plot the data in a time series
-
-__Initial output of time series:__
-
-![image of output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/initialScatter.svg)
-
 
 
 ### Note book two:
@@ -44,9 +43,13 @@ Sample output, check charts folder for others:
 
  ![image of output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/G67bySeaonBoxPlot.svg)
  
-### Note book three:
+### Notebook three wrapping it all up:
 
 __Status:__ Started => consolidating methods and pushing to modules
+
+__Abundance:__ Compare total quantities over time from one survey => then a location => then the whole lake
+
+__Density:__ Compare pcs_m values over time from one survey => then a location => then the whole lake
 
 ### Contributing
 
