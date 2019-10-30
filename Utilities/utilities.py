@@ -1,5 +1,6 @@
 import pandas as pd
 import datetime
+import numpy as np
 # import MlwCode.get_the_data as get_the_data
 # import MlwCode.get_pieces_per_meter as get_pieces_per_meter
 
@@ -115,6 +116,19 @@ def getTheValuesOfAnAttribute(some_attribute, attribute_value, some_data):
     """
     my_special_data = [x for x in some_data if x[some_attribute] == attribute_value]
     return my_special_data
+def makeSummaryFromAnArray(aList):
+        """
+        Makes a summary of the data in dictionary format
+        """
+        results = {}
+        results["the_min"] = np.round(np.min(aList), 3)
+        results["the_max"] = np.round(np.max(aList), 3)
+        results["the_median"] = np.round(np.median(aList), 3)
+        results["the_average"] = np.round(np.mean(aList),3)
+        results["twenty_fifth"] = np.round(np.percentile(aList, 25), 3)
+        results["seventy_fifth"] =  np.round(np.percentile(aList, 75), 3)
+        results["no_samples"] = len(aList)
+        return results
 def getPandasCodeSummary(df,codes):
     the_dfs = []
     for code in codes:

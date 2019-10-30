@@ -14,7 +14,6 @@ def seasonalBoxPlots(my_seasons, myday_y, my_month, months, obj_name, seasons, t
     fig, ax = plt.subplots(2,2, figsize=(8,8))
     num_samps = 0
     the_seasons = list(my_seasons.keys())
-    num_samps = 0
     width = 0.7
     for i,season in enumerate(the_seasons):
         data_sorted = sorted(my_seasons[season])
