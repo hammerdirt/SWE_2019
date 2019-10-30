@@ -14,7 +14,7 @@
 
 If you are new to this start with notebook one. The code used here is simple but effective. Therefore you will need a working knowledge of Python and/or JavaScript to really grasp what is going on.
 
-![output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/Parc-des-PierrettesSummary.svg)
+![output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/Parc-des-PierrettesDensitySummary.svg)
 
 ### Note book one:
 
@@ -50,6 +50,8 @@ __Status:__ Started => consolidating methods and pushing to modules
 __Abundance:__ Compare total quantities over time from one survey => then a location => then the whole lake
 
 __Density:__ Compare pcs_m values over time from one survey => then a location => then the whole lake
+
+![output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/Parc-des-PierrettesSummary.svg)
 
 ### Contributing
 
