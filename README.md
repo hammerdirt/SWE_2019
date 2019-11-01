@@ -45,11 +45,15 @@ Sample output, check charts folder for others:
  
 ### Notebook three wrapping it all up:
 
-__Status:__ Started => consolidating methods and pushing to modules
+__Status:__ Started => completed
 
 __Abundance:__ Compare total quantities over time from one survey => then a location => then the whole lake
 
 __Density:__ Compare pcs_m values over time from one survey => then a location => then the whole lake
+
+__Probability:__ Explore some of the continuous distributions that may be applicable
+
+![output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/differentDists.svg)
 
 ![output](https://github.com/hammerdirt/SWE_2019/blob/master/Charts/Parc-des-PierrettesSummary.svg)
 
