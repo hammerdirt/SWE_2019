@@ -31,8 +31,8 @@ def seasonalBoxPlots(my_seasons, myday_y, my_month, months, obj_name, seasons, t
         winter = seasons[season]
         season_months = [months[x] for x in winter]
         ax_title = utilities.makeStringFromList(season_months)+":"
-        y_limit = data_sorted[-2] + 0.1
-        axs.set_ylim(-.05,y_limit)
+        y_limit = data_sorted[-2]+0.15
+        axs.set_ylim(-.0,y_limit)
         axs.boxplot(data_sorted, widths=width, showfliers=False,)
         axs.scatter(x,y, color=seasons_colors[season], s=100, edgecolor="w", alpha=0.7,label=obj_name)
         if my_month in winter:
